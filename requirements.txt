@@ -1,0 +1,11 @@
+django
+djangorestframework==3.11.0
+django-allauth
+django-rest-auth
+django_inlinecss
+django-naomi
+django-rest-swagger
+django-cors-headers
+mysqlclient
+django-filter
+dj-rest-auth
